@@ -13,7 +13,11 @@ Install the dependencies...
 
 
 ```bash
-git clone https://github.com/katgolek/svelte-starter-scss-routing-dotenv.git
+git clone https://github.com/katgolek/svelte-starter-scss-routing-dotenv.git my-project
+```
+
+```bash
+cd my-project
 ```
 
 ```bash
